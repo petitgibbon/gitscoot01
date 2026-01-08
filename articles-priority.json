@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AI Advances in 2025",
+    "category": "tech",
+    "priority": 5,
+    "summary": "AI is transforming everything from healthcare to finance.",
+    "content": "In-depth analysis of how AI is disrupting industries in 2025. From generative models to autonomous systems, artificial intelligence continues to reshape the technological landscape. Healthcare providers are using AI for early disease detection, while financial institutions leverage machine learning for fraud prevention and market prediction.",
+    "url": "https://example.com/ai-2025"
+  },
+  {
+    "title": "Global Sports Update",
+    "category": "sports",
+    "priority": 3,
+    "summary": "All the major results and upsets in global tournaments.",
+    "content": "Full season wrap-up of global sports events, player highlights, and championship stats. This year saw unprecedented performances across multiple disciplines, with record-breaking achievements in athletics, surprising upsets in team sports, and emerging talents making their mark on the international stage.",
+    "url": "https://example.com/sports-update"
+  },
+  {
+    "title": "Climate Summit Breakthrough",
+    "category": "world",
+    "priority": 5,
+    "summary": "World leaders reach historic agreement on emissions.",
+    "content": "After weeks of intense negotiations, representatives from over 190 countries have agreed to binding emissions targets. The agreement includes unprecedented commitments from major industrial nations and a comprehensive support package for developing countries to transition to renewable energy sources.",
+    "url": "https://example.com/climate-summit"
+  },
+  {
+    "title": "Stock Market Hits New High",
+    "category": "business",
+    "priority": 4,
+    "summary": "Markets rally on positive economic indicators.",
+    "content": "Major indices reached record highs today as investors responded positively to strong employment data and corporate earnings reports. Technology and green energy sectors led the gains, with several companies reporting better-than-expected quarterly results. Analysts predict continued growth despite global economic uncertainties.",
+    "url": "https://example.com/market-high"
+  },
+  {
+    "title": "New Cancer Treatment Shows Promise",
+    "category": "health",
+    "priority": 5,
+    "summary": "Revolutionary therapy demonstrates 90% success rate in trials.",
+    "content": "A groundbreaking immunotherapy treatment has shown remarkable success in late-stage clinical trials, offering new hope for patients with previously untreatable forms of cancer. The therapy works by training the patient's own immune system to recognize and attack cancer cells more effectively.",
+    "url": "https://example.com/cancer-treatment"
+  },
+  {
+    "title": "Championship Final Goes to Overtime",
+    "category": "sports",
+    "priority": 2,
+    "summary": "Thrilling finish as underdogs force extra time.",
+    "content": "In one of the most exciting championship finals in recent memory, the underdog team forced overtime with a dramatic last-minute goal. The match showcased exceptional athleticism and strategic play from both sides, keeping fans on the edge of their seats until the final whistle.",
+    "url": "https://example.com/championship-final"
+  },
+  {
+    "title": "Breakthrough in Quantum Computing",
+    "category": "tech",
+    "priority": 4,
+    "summary": "Scientists achieve stable quantum state for record duration.",
+    "content": "Researchers have successfully maintained a quantum state for an unprecedented length of time, bringing practical quantum computers closer to reality. This breakthrough could revolutionize computing power for complex calculations in fields ranging from drug discovery to climate modeling and cryptography.",
+    "url": "https://example.com/quantum-breakthrough"
+  },
+  {
+    "title": "Global Food Security Initiative Launched",
+    "category": "world",
+    "priority": 4,
+    "summary": "International coalition addresses hunger and sustainable agriculture.",
+    "content": "A comprehensive initiative bringing together governments, NGOs, and private sector partners aims to tackle food insecurity while promoting sustainable farming practices. The program focuses on improving supply chains, supporting small-scale farmers, and developing climate-resistant crop varieties.",
+    "url": "https://example.com/food-security"
+  },
+  {
+    "title": "Tech Giants Report Quarterly Earnings",
+    "category": "business",
+    "priority": 3,
+    "summary": "Mixed results as companies navigate economic headwinds.",
+    "content": "The latest quarterly earnings from major technology companies paint a complex picture of the industry. While some firms exceeded expectations with strong cloud and AI revenue, others faced challenges from reduced advertising spending and shifting consumer behaviors in a changing economic landscape.",
+    "url": "https://example.com/tech-earnings"
+  },
+  {
+    "title": "Mental Health Awareness Campaign",
+    "category": "health",
+    "priority": 3,
+    "summary": "New initiative aims to reduce stigma and improve access to care.",
+    "content": "A nationwide campaign is working to normalize conversations about mental health and expand access to services. The initiative includes workplace programs, educational resources, and partnerships with healthcare providers to ensure that mental health support is available and affordable for all.",
+    "url": "https://example.com/mental-health"
+  },
+  {
+    "title": "Startup Funding Reaches All-Time High",
+    "category": "business",
+    "priority": 2,
+    "summary": "Venture capital investments surge in green tech and AI sectors.",
+    "content": "Investment in startups reached new records this quarter, with particular enthusiasm for companies working on artificial intelligence, renewable energy, and sustainable technologies. The funding boom reflects investor confidence in innovative solutions to global challenges and the potential for significant returns.",
+    "url": "https://example.com/startup-funding"
+  },
+  {
+    "title": "International Space Station Expansion",
+    "category": "tech",
+    "priority": 3,
+    "summary": "New modules to support extended research missions.",
+    "content": "The International Space Station is undergoing its most significant expansion in years, with new modules designed to accommodate larger crews and more extensive research programs. The upgrades will enable longer-duration missions and expanded experiments in fields including materials science, biology, and astronomy.",
+    "url": "https://example.com/iss-expansion"
+  },
+  {
+    "title": "Historic Peace Agreement Signed",
+    "category": "world",
+    "priority": 5,
+    "summary": "Long-standing conflict resolved through diplomatic breakthrough.",
+    "content": "After decades of tension and years of negotiations, former adversaries have signed a comprehensive peace agreement. The historic accord addresses territorial disputes, establishes economic cooperation frameworks, and includes provisions for reconciliation and healing between communities affected by the conflict.",
+    "url": "https://example.com/peace-agreement"
+  },
+  {
+    "title": "Olympic Athlete Breaks World Record",
+    "category": "sports",
+    "priority": 4,
+    "summary": "Stunning performance shatters previous mark by significant margin.",
+    "content": "In a display of extraordinary athleticism, an Olympic competitor has broken a world record that stood for over a decade. The achievement came after years of training and represents a milestone in the sport. Experts believe this performance sets a new standard and will inspire the next generation of athletes.",
+    "url": "https://example.com/world-record"
+  },
+  {
+    "title": "Pandemic Preparedness Framework Unveiled",
+    "category": "health",
+    "priority": 4,
+    "summary": "Nations collaborate on early warning and response systems.",
+    "content": "Drawing lessons from recent global health crises, countries have agreed to a comprehensive framework for pandemic preparedness. The system includes real-time data sharing, coordinated response protocols, and investment in research infrastructure to detect and respond to emerging health threats more rapidly.",
+    "url": "https://example.com/pandemic-preparedness"
+  }
+]
